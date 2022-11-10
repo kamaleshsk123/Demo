@@ -1,3 +1,5 @@
-var a = Number(window.prompt("Enter the first number: "))
-var b = Number(window.prompt("Enter the second number: "))
-document.write("The answer is  "+(a+b))
+function cal(a,b){
+    var c = a+b;
+    document.write(c)
+}cal(1,11)
+document.write(c)
